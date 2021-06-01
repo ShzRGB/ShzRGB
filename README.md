@@ -1,7 +1,7 @@
 <p align='center'><a href="https://instagram.com/dwip_bagus"><img height="200" 
 src="https://github.com/ShzRGB/shinzu/blob/main/src/Gambar.png"></a>&nbsp;&nbsp;</p>
 
-## Hello There, [I'm ShzRGB](https://instagram.com/Dwip_bagus) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello There, [I'm ShzRGB](https://instagram.com/bot_shinzu) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 
 <b>Hii. aku ShzRGB, Gabisa coding,
