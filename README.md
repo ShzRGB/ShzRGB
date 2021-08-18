@@ -14,4 +14,10 @@ Dan juga cuman bisa recode gabisa bikin sesuatu yang baru.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bot_shinzu)
 
 ## Hanya seorang Gabuters!
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{ShzRGB}/count.svg" alt="ShzRGB :: Visitor's Count" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+---------
